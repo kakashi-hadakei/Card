@@ -14,7 +14,7 @@ public class Deck{
 	
 	//instance method
 	public List<Card> getDeck(){
-		//getter methd 
+		//getter method 
 		return this.deck;
 	}
 	
